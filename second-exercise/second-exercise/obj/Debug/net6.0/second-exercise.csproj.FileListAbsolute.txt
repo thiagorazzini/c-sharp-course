@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\bin\Debug\net6.0\second-exercise.exe
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\bin\Debug\net6.0\second-exercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\bin\Debug\net6.0\second-exercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\bin\Debug\net6.0\second-exercise.dll
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\bin\Debug\net6.0\second-exercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.dll
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\refint\second-exercise.dll
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\second-exercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\second-exercise\second-exercise\obj\Debug\net6.0\ref\second-exercise.dll

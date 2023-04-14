@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\bin\Debug\net6.0\exercicioUm.exe
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\bin\Debug\net6.0\exercicioUm.deps.json
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\bin\Debug\net6.0\exercicioUm.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\bin\Debug\net6.0\exercicioUm.dll
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\bin\Debug\net6.0\exercicioUm.pdb
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.dll
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\refint\exercicioUm.dll
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.pdb
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\exercicioUm.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\exercicioUm\exercicioUm\obj\Debug\net6.0\ref\exercicioUm.dll
