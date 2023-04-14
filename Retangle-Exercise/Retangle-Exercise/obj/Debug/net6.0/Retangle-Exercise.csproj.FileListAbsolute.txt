@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\bin\Debug\net6.0\Retangle-Exercise.exe
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\bin\Debug\net6.0\Retangle-Exercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\bin\Debug\net6.0\Retangle-Exercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\bin\Debug\net6.0\Retangle-Exercise.dll
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\bin\Debug\net6.0\Retangle-Exercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.dll
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\refint\Retangle-Exercise.dll
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\Retangle-Exercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\Retangle-Exercise\Retangle-Exercise\obj\Debug\net6.0\ref\Retangle-Exercise.dll

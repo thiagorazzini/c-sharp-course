@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retangle-Exercise", "Retangle-Exercise\Retangle-Exercise.csproj", "{646B432F-7082-4933-9224-48D13F692C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646B432F-7082-4933-9224-48D13F692C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646B432F-7082-4933-9224-48D13F692C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646B432F-7082-4933-9224-48D13F692C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646B432F-7082-4933-9224-48D13F692C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E20F2C52-483F-4CFF-BEBD-0139DA19A1C6}
+	EndGlobalSection
+EndGlobal
