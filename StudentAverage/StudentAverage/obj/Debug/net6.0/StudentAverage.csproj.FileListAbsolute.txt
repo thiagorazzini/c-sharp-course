@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\bin\Debug\net6.0\StudentAverage.exe
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\bin\Debug\net6.0\StudentAverage.deps.json
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\bin\Debug\net6.0\StudentAverage.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\bin\Debug\net6.0\StudentAverage.dll
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\bin\Debug\net6.0\StudentAverage.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.dll
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\refint\StudentAverage.dll
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\StudentAverage.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\StudentAverage\StudentAverage\obj\Debug\net6.0\ref\StudentAverage.dll
