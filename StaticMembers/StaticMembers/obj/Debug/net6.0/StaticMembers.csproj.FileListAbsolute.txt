@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.exe
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.deps.json
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.dll
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.pdb
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.dll
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\refint\StaticMembers.dll
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.pdb
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\StaticMembers\StaticMembers\obj\Debug\net6.0\ref\StaticMembers.dll
