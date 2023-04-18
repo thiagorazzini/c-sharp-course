@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\bin\Debug\net6.0\ConstructorLesson.exe
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\bin\Debug\net6.0\ConstructorLesson.deps.json
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\bin\Debug\net6.0\ConstructorLesson.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\bin\Debug\net6.0\ConstructorLesson.dll
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\bin\Debug\net6.0\ConstructorLesson.pdb
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.dll
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\refint\ConstructorLesson.dll
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.pdb
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ConstructorLesson.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\ConstructorLesson\ConstructorLesson\obj\Debug\net6.0\ref\ConstructorLesson.dll
