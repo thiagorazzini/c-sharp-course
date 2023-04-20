@@ -50,13 +50,22 @@ namespace BankProject
             Balance += value;
         }
 
+
+        public void Withdrawal()
+        {
+            Console.Write("Entre um valor para saque: ");
+            double withDrawal = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double rate = 5.00;
+            Balance -= withDrawal;
+            Balance -= rate;
+        }
         public override string ToString()
         {
             return "Conta "
                    + AccountNumber
                    + ", Titular: "
                    + NameOwner
-                   + ", Saldo: $"
+                   + ", Saldo: $ "
                    + Balance.ToString("F2", CultureInfo.InvariantCulture);
         }
 
