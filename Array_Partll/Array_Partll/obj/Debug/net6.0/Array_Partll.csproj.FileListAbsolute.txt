@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\bin\Debug\net6.0\Array_Partll.exe
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\bin\Debug\net6.0\Array_Partll.deps.json
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\bin\Debug\net6.0\Array_Partll.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\bin\Debug\net6.0\Array_Partll.dll
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\bin\Debug\net6.0\Array_Partll.pdb
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.dll
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\refint\Array_Partll.dll
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.pdb
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\Array_Partll.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\Array_Partll\Array_Partll\obj\Debug\net6.0\ref\Array_Partll.dll

@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\bin\Debug\net6.0\Array.exe
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\bin\Debug\net6.0\Array.deps.json
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\bin\Debug\net6.0\Array.dll
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\bin\Debug\net6.0\Array.pdb
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.dll
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\refint\Array.dll
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.pdb
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\Array\Array\obj\Debug\net6.0\ref\Array.dll

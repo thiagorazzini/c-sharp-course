@@ -9,55 +9,34 @@ namespace BankProject
 {
     internal class Account
     {
-        private string _nameOwner;
+        public string NameOwner { get; set; }
         public int AccountNumber  { get; private set; }
-        private double _balance;
+        public double Balance { get; private set; }
 
-
-
-        public Account(int accountNumber)
+        public Account( int accountNumber, string nameOwner)
         {
+            NameOwner = nameOwner;
             AccountNumber = accountNumber;
+   
         }
 
-        public string NameOwner
+        public Account(int accountNumber, string nameOwner, double balanceInitial) : this(accountNumber, nameOwner)
         {
-            get { return _nameOwner; }
-            set { _nameOwner = value; }
+            Deposit(balanceInitial);
         }
+        
 
-        public double Balance
+        public void Deposit(double deposit)
         {
-            get { return _balance; }
-            set { _balance = value; }
-        }
-
-
-        public void Verify(char isDeposite)
-        {
-            if(isDeposite == 's')
-            {
-                Console.Write("Entre o valor de depósito inicial: ");
-                double value = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                Balance += value;
-            }
-        }
-
-        public void Deposit()
-        {
-            Console.Write("Entre um valor para deposito: ");
-            double value = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Balance += value;
+            Balance += deposit;
         }
 
 
-        public void Withdrawal()
+        public void Withdrawal(double value)
         {
-            Console.Write("Entre um valor para saque: ");
-            double withDrawal = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            double rate = 5.00;
-            Balance -= withDrawal;
-            Balance -= rate;
+            
+            Balance -= value + 5;
+
         }
         public override string ToString()
         {

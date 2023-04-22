@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUv06x4a0w6YH5/b7McmElR2MdvdS/B1sheNRb9EMDiy85YUL2h/qkLb+y2v8suRJHl9APjwt3vAJvQWe3w8yQ==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\projects\\udemy\\c-sharp-complete\\Array\\Array\\Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

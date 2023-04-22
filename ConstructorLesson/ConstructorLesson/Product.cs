@@ -13,9 +13,6 @@ namespace Product
         public double Price { get; private set; }
         public int Quantity { get; private set; }
 
-
-
-
         public ProductNam() { }
 
         public ProductNam(string name, double price, int quantity) {

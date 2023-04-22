@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\bin\Debug\net6.0\Room.exe
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\bin\Debug\net6.0\Room.deps.json
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\bin\Debug\net6.0\Room.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\bin\Debug\net6.0\Room.dll
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\bin\Debug\net6.0\Room.pdb
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.dll
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\refint\Room.dll
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.pdb
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\Room.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\Room\Room\obj\Debug\net6.0\ref\Room.dll
