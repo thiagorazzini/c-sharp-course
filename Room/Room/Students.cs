@@ -11,12 +11,16 @@ namespace Room
         //São 10  quartos de 0 a 9
         public string Name { get; set; }
         public string Email { get; set; }
-        public int[] QtRoom { get; set; }
-        public int RoomId { get; set; }
 
-        public Students(int qtRoom)
+        public Students(string name, string email)
         {
-            QtRoom[] = qtRoom;
+            Name = name;
+            Email = email;
+        }
+
+        public override string ToString()
+        {
+            return Name + ", " + Email;
         }
     }
 }

@@ -4,46 +4,34 @@
     {
         static void Main(string[] args)
         {
-            int qtd = 10;
-            Students room = new Students(qtd);
-
+            Students[] student = new Students[10];
 
             Console.Write("How many rooms will be rented? ");
-            int roomQtd = int.Parse(Console.ReadLine());
+            int quantityToRented = int.Parse(Console.ReadLine());
 
-            int[] qtdRoom = new int[10];
 
-            for(int i = 0; i < roomQtd ; i++)
+            for (int i = 1; i <= quantityToRented; i++)
             {
-                Console.WriteLine($"Rent #{i+1}");
+
+                Console.WriteLine($"Rent: #{i}");
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
-                Console.Write("email: ");
+                Console.Write("Email: ");
                 string email = Console.ReadLine();
                 Console.Write("Room: ");
                 int roomId = int.Parse(Console.ReadLine());
-
-                for(int  j = 0; j < qtdRoom.Length; j++)
-                {
-                    if(roomId == j)
-                    {
-                        qtdRoom[j] = roomId;
-                        room = new Students(name, email, roomId[]);
-                        Console.WriteLine(qtdRoom[j]);
-                    }
-                }
-
-
-               
-
-
+                student[roomId] = new Students(name, email);
 
             }
 
-
-
-
-
+            Console.WriteLine("Busy rooms: ");
+            for (int i  = 0; i < student.Length; i++)
+            {
+                if (student[i] != null)
+                {
+                 Console.WriteLine(i + ": " + student[i]);
+                }
+            }
         }
     }
 }
