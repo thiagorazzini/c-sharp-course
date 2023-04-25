@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\bin\Debug\net6.0\EmployeeList.exe
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\bin\Debug\net6.0\EmployeeList.deps.json
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\bin\Debug\net6.0\EmployeeList.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\bin\Debug\net6.0\EmployeeList.dll
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\bin\Debug\net6.0\EmployeeList.pdb
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.dll
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\refint\EmployeeList.dll
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.pdb
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\EmployeeList.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\EmployeeList\EmployeeList\obj\Debug\net6.0\ref\EmployeeList.dll
