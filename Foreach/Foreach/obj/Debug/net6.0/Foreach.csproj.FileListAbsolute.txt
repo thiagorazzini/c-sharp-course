@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\bin\Debug\net6.0\Foreach.exe
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\bin\Debug\net6.0\Foreach.deps.json
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\bin\Debug\net6.0\Foreach.dll
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\bin\Debug\net6.0\Foreach.pdb
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.dll
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.pdb
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\Foreach\Foreach\obj\Debug\net6.0\ref\Foreach.dll

@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\bin\Debug\net6.0\RefModifier.exe
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\bin\Debug\net6.0\RefModifier.deps.json
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\bin\Debug\net6.0\RefModifier.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\bin\Debug\net6.0\RefModifier.dll
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\bin\Debug\net6.0\RefModifier.pdb
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.dll
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\refint\RefModifier.dll
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.pdb
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\RefModifier.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\RefModifier\RefModifier\obj\Debug\net6.0\ref\RefModifier.dll
