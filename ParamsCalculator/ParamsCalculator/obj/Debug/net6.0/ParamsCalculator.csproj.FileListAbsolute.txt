@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\bin\Debug\net6.0\ParamsCalculator.exe
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\bin\Debug\net6.0\ParamsCalculator.deps.json
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\bin\Debug\net6.0\ParamsCalculator.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\bin\Debug\net6.0\ParamsCalculator.dll
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\bin\Debug\net6.0\ParamsCalculator.pdb
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.dll
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\refint\ParamsCalculator.dll
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.pdb
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ParamsCalculator.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\ParamsCalculator\ParamsCalculator\obj\Debug\net6.0\ref\ParamsCalculator.dll
