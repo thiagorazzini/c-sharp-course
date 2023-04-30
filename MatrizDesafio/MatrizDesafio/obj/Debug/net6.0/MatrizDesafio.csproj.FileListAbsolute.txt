@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\bin\Debug\net6.0\MatrizDesafio.exe
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\bin\Debug\net6.0\MatrizDesafio.deps.json
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\bin\Debug\net6.0\MatrizDesafio.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\bin\Debug\net6.0\MatrizDesafio.dll
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\bin\Debug\net6.0\MatrizDesafio.pdb
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.dll
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\refint\MatrizDesafio.dll
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.pdb
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\MatrizDesafio.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\MatrizDesafio\MatrizDesafio\obj\Debug\net6.0\ref\MatrizDesafio.dll
