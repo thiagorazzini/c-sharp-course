@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\bin\Debug\net6.0\MatChallange.exe
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\bin\Debug\net6.0\MatChallange.deps.json
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\bin\Debug\net6.0\MatChallange.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\bin\Debug\net6.0\MatChallange.dll
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\bin\Debug\net6.0\MatChallange.pdb
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.dll
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\refint\MatChallange.dll
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.pdb
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\MatChallange.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\MatChallange\MatChallange\obj\Debug\net6.0\ref\MatChallange.dll

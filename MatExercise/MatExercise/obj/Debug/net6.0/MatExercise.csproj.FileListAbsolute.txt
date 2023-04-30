@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\bin\Debug\net6.0\MatExercise.exe
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\bin\Debug\net6.0\MatExercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\bin\Debug\net6.0\MatExercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\bin\Debug\net6.0\MatExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\bin\Debug\net6.0\MatExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\refint\MatExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\MatExercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\MatExercise\MatExercise\obj\Debug\net6.0\ref\MatExercise.dll

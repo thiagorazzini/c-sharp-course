@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\bin\Debug\net6.0\stringFunctions.exe
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\bin\Debug\net6.0\stringFunctions.deps.json
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\bin\Debug\net6.0\stringFunctions.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\bin\Debug\net6.0\stringFunctions.dll
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\bin\Debug\net6.0\stringFunctions.pdb
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.dll
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\refint\stringFunctions.dll
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.pdb
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\stringFunctions.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\stringFunctions\stringFunctions\obj\Debug\net6.0\ref\stringFunctions.dll
