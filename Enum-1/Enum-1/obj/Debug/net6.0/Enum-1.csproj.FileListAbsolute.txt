@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\bin\Debug\net6.0\Enum-1.exe
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\bin\Debug\net6.0\Enum-1.deps.json
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\bin\Debug\net6.0\Enum-1.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\bin\Debug\net6.0\Enum-1.dll
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\bin\Debug\net6.0\Enum-1.pdb
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.dll
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\refint\Enum-1.dll
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.pdb
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\Enum-1.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\Enum-1\Enum-1\obj\Debug\net6.0\ref\Enum-1.dll
