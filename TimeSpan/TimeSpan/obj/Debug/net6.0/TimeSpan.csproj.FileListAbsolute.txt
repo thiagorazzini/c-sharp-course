@@ -1,0 +1,5 @@
+C:\labs\projects\udemy\c-sharp-complete\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\TimeSpan\TimeSpan\obj\Debug\net6.0\TimeSpan.csproj.CoreCompileInputs.cache

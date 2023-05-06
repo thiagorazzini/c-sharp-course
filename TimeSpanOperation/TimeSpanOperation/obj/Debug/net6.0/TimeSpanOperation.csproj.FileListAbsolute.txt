@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\bin\Debug\net6.0\TimeSpanOperation.exe
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\bin\Debug\net6.0\TimeSpanOperation.deps.json
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\bin\Debug\net6.0\TimeSpanOperation.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\bin\Debug\net6.0\TimeSpanOperation.dll
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\bin\Debug\net6.0\TimeSpanOperation.pdb
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.dll
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\refint\TimeSpanOperation.dll
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.pdb
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\TimeSpanOperation.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\TimeSpanOperation\TimeSpanOperation\obj\Debug\net6.0\ref\TimeSpanOperation.dll

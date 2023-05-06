@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\bin\Debug\net6.0\DateKindTime.exe
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\bin\Debug\net6.0\DateKindTime.deps.json
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\bin\Debug\net6.0\DateKindTime.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\bin\Debug\net6.0\DateKindTime.dll
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\bin\Debug\net6.0\DateKindTime.pdb
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.dll
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\refint\DateKindTime.dll
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.pdb
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\DateKindTime.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\DateKindTime\DateKindTime\obj\Debug\net6.0\ref\DateKindTime.dll

@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\bin\Debug\net6.0\DateTimeOperations.exe
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\bin\Debug\net6.0\DateTimeOperations.deps.json
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\bin\Debug\net6.0\DateTimeOperations.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\bin\Debug\net6.0\DateTimeOperations.dll
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\bin\Debug\net6.0\DateTimeOperations.pdb
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.dll
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\refint\DateTimeOperations.dll
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.pdb
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\DateTimeOperations.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\DateTimeOperations\DateTimeOperations\obj\Debug\net6.0\ref\DateTimeOperations.dll
