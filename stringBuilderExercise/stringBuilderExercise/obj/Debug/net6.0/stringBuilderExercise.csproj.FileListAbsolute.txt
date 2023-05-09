@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\bin\Debug\net6.0\stringBuilderExercise.exe
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\bin\Debug\net6.0\stringBuilderExercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\bin\Debug\net6.0\stringBuilderExercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\bin\Debug\net6.0\stringBuilderExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\bin\Debug\net6.0\stringBuilderExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\refint\stringBuilderExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\stringBuilderExercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\stringBuilderExercise\stringBuilderExercise\obj\Debug\net6.0\ref\stringBuilderExercise.dll
