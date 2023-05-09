@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\bin\Debug\net6.0\CompositionCSharp.exe
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\bin\Debug\net6.0\CompositionCSharp.deps.json
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\bin\Debug\net6.0\CompositionCSharp.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\bin\Debug\net6.0\CompositionCSharp.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\bin\Debug\net6.0\CompositionCSharp.pdb
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\refint\CompositionCSharp.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.pdb
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\CompositionCSharp.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionCSharp\CompositionCSharp\obj\Debug\net6.0\ref\CompositionCSharp.dll
