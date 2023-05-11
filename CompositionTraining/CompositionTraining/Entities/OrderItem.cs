@@ -28,5 +28,16 @@ namespace CompositionTraining.Entities
             return Price * Quantity;
         }
 
+        public override string ToString()
+        {
+            return Product.Name
+                + ", $"
+                + Price
+                + " Quantity: "
+                + Quantity
+                + " Subtotal: $"
+                + SubTotal();
+        }
+
     }
 }

@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\bin\Debug\net6.0\HerancaCourse.exe
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\bin\Debug\net6.0\HerancaCourse.deps.json
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\bin\Debug\net6.0\HerancaCourse.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\bin\Debug\net6.0\HerancaCourse.dll
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\bin\Debug\net6.0\HerancaCourse.pdb
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.dll
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\refint\HerancaCourse.dll
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.pdb
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\HerancaCourse.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\HerancaCourse\HerancaCourse\obj\Debug\net6.0\ref\HerancaCourse.dll

@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\bin\Debug\net6.0\CompositionTraining.exe
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\bin\Debug\net6.0\CompositionTraining.deps.json
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\bin\Debug\net6.0\CompositionTraining.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\bin\Debug\net6.0\CompositionTraining.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\bin\Debug\net6.0\CompositionTraining.pdb
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\refint\CompositionTraining.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.pdb
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\CompositionTraining.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionTraining\CompositionTraining\obj\Debug\net6.0\ref\CompositionTraining.dll

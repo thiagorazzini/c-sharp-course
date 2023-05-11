@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\bin\Debug\net6.0\CompositionStudiesExercise.exe
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\bin\Debug\net6.0\CompositionStudiesExercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\bin\Debug\net6.0\CompositionStudiesExercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\bin\Debug\net6.0\CompositionStudiesExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\bin\Debug\net6.0\CompositionStudiesExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\refint\CompositionStudiesExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\CompositionStudiesExercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\CompositionStudiesExercise\CompositionStudiesExercise\obj\Debug\net6.0\ref\CompositionStudiesExercise.dll

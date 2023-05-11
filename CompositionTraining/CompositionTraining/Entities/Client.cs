@@ -18,5 +18,15 @@ namespace CompositionTraining.Entities
             Email = email;
             this.birthDate = birthDate;
         }
+
+        public override string ToString()
+        {
+            return Name
+                + " ("
+                + birthDate.ToString("dd/MM/yyyy")
+                + ")"
+                + " - "
+                + Email;
+        }
     }
 }
