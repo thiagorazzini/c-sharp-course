@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\bin\Debug\net6.0\InherintAndPolimorfism.exe
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\bin\Debug\net6.0\InherintAndPolimorfism.deps.json
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\bin\Debug\net6.0\InherintAndPolimorfism.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\bin\Debug\net6.0\InherintAndPolimorfism.dll
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\bin\Debug\net6.0\InherintAndPolimorfism.pdb
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.dll
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\refint\InherintAndPolimorfism.dll
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.pdb
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\InherintAndPolimorfism.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\InherintAndPolimorfism\InherintAndPolimorfism\obj\Debug\net6.0\ref\InherintAndPolimorfism.dll
