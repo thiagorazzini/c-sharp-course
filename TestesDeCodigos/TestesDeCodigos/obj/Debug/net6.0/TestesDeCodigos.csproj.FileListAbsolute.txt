@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\bin\Debug\net6.0\TestesDeCodigos.exe
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\bin\Debug\net6.0\TestesDeCodigos.deps.json
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\bin\Debug\net6.0\TestesDeCodigos.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\bin\Debug\net6.0\TestesDeCodigos.dll
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\bin\Debug\net6.0\TestesDeCodigos.pdb
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.dll
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\refint\TestesDeCodigos.dll
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.pdb
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\TestesDeCodigos.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\TestesDeCodigos\TestesDeCodigos\obj\Debug\net6.0\ref\TestesDeCodigos.dll

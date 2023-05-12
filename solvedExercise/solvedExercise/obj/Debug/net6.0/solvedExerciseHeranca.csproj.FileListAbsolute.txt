@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\bin\Debug\net6.0\solvedExerciseHeranca.exe
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\bin\Debug\net6.0\solvedExerciseHeranca.deps.json
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\bin\Debug\net6.0\solvedExerciseHeranca.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\bin\Debug\net6.0\solvedExerciseHeranca.dll
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\bin\Debug\net6.0\solvedExerciseHeranca.pdb
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.dll
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\refint\solvedExerciseHeranca.dll
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.pdb
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\solvedExerciseHeranca.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedExercise\solvedExercise\obj\Debug\net6.0\ref\solvedExerciseHeranca.dll

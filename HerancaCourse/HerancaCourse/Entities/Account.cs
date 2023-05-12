@@ -20,7 +20,7 @@ namespace HerancaCourse.Entities
             Balance = balance;
         }
 
-        public virtual void WithDraw(double amount)
+        public  virtual void WithDraw(double amount)
         {
             Balance -= amount + 5.0;
         }
