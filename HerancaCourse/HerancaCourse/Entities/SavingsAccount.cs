@@ -7,24 +7,22 @@ namespace HerancaCourse.Entities
 
         public SavingsAccount()
         {
-            
         }
 
-        public SavingsAccount(int numberAccount, string holder, double balance, double interestRate) 
-            : base( numberAccount,  holder,  balance)
+        public SavingsAccount(int number, string holder, double balance, double interestRate)
+            : base(number, holder, balance)
         {
             InterestRate = interestRate;
         }
 
         public void UpdateBalance()
         {
-            Balance += Balance * InterestRate; 
+            Balance += Balance * InterestRate;
         }
 
-
-        public sealed override void WithDraw(double amount)
+        public override void Withdraw(double amount)
         {
-            base.WithDraw(amount);
+            base.Withdraw(amount);
             Balance -= 2.0;
         }
 

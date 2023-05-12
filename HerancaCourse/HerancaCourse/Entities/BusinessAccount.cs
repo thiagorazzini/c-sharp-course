@@ -5,14 +5,14 @@ namespace HerancaCourse.Entities
     {
         public double LoanLimit { get; set; }
 
-        public BusinessAccount() { }
+        public BusinessAccount()
+        {
+        }
 
-
-        public BusinessAccount(int numberAccount, string holder, double balance, double loanLimit)
-            : base(numberAccount, holder, balance)
+        public BusinessAccount(int number, string holder, double balance, double loanLimit)
+            : base(number, holder, balance)
         {
             LoanLimit = loanLimit;
-
         }
 
         public void Loan(double amount)
