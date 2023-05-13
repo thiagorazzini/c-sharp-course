@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\bin\Debug\net6.0\AbstractsMethods.exe
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\bin\Debug\net6.0\AbstractsMethods.deps.json
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\bin\Debug\net6.0\AbstractsMethods.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\bin\Debug\net6.0\AbstractsMethods.dll
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\bin\Debug\net6.0\AbstractsMethods.pdb
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.dll
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\refint\AbstractsMethods.dll
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.pdb
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\AbstractsMethods.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractsMethods\AbstractsMethods\obj\Debug\net6.0\ref\AbstractsMethods.dll

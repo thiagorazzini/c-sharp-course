@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vAJY4wY+l8Wy/F3zuXhaHbBk0XAsbkV1AfLQ/a7QDV+5Es8IpmPuvisU8wksqLa113UBOAzd1G2HOqyeDUoglQ==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\projects\\udemy\\c-sharp-complete\\AbstractsMethods\\AbstractsMethods\\AbstractsMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
