@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\bin\Debug\net6.0\LearneTryCatch.exe
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\bin\Debug\net6.0\LearneTryCatch.deps.json
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\bin\Debug\net6.0\LearneTryCatch.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\bin\Debug\net6.0\LearneTryCatch.dll
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\bin\Debug\net6.0\LearneTryCatch.pdb
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.dll
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\refint\LearneTryCatch.dll
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.pdb
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\LearneTryCatch.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\LearneTryCatch\LearneTryCatch\obj\Debug\net6.0\ref\LearneTryCatch.dll
