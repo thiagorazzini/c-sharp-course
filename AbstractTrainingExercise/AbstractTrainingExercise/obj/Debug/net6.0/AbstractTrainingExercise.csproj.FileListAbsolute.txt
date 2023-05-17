@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\bin\Debug\net6.0\AbstractTrainingExercise.exe
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\bin\Debug\net6.0\AbstractTrainingExercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\bin\Debug\net6.0\AbstractTrainingExercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\bin\Debug\net6.0\AbstractTrainingExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\bin\Debug\net6.0\AbstractTrainingExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\refint\AbstractTrainingExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\AbstractTrainingExercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\AbstractTrainingExercise\AbstractTrainingExercise\obj\Debug\net6.0\ref\AbstractTrainingExercise.dll
