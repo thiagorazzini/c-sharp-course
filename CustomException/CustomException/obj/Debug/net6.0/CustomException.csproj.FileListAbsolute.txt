@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\bin\Debug\net6.0\CustomException.exe
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\bin\Debug\net6.0\CustomException.deps.json
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\bin\Debug\net6.0\CustomException.dll
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\bin\Debug\net6.0\CustomException.pdb
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.dll
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\refint\CustomException.dll
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.pdb
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\CustomException\CustomException\obj\Debug\net6.0\ref\CustomException.dll

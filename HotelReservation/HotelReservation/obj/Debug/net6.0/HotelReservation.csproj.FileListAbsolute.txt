@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\bin\Debug\net6.0\HotelReservation.exe
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\bin\Debug\net6.0\HotelReservation.deps.json
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\bin\Debug\net6.0\HotelReservation.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\bin\Debug\net6.0\HotelReservation.dll
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\bin\Debug\net6.0\HotelReservation.pdb
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.dll
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\refint\HotelReservation.dll
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.pdb
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\HotelReservation.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\HotelReservation\HotelReservation\obj\Debug\net6.0\ref\HotelReservation.dll
