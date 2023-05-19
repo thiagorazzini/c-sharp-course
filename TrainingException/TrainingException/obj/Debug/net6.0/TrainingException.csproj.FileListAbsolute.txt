@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\bin\Debug\net6.0\TrainingException.exe
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\bin\Debug\net6.0\TrainingException.deps.json
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\bin\Debug\net6.0\TrainingException.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\bin\Debug\net6.0\TrainingException.dll
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\bin\Debug\net6.0\TrainingException.pdb
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.dll
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\refint\TrainingException.dll
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.pdb
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\TrainingException.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\TrainingException\TrainingException\obj\Debug\net6.0\ref\TrainingException.dll
