@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\bin\Debug\net6.0\FilestreamUnderstand.exe
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\bin\Debug\net6.0\FilestreamUnderstand.deps.json
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\bin\Debug\net6.0\FilestreamUnderstand.runtimeconfig.json
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\bin\Debug\net6.0\FilestreamUnderstand.dll
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\bin\Debug\net6.0\FilestreamUnderstand.pdb
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.AssemblyInfo.cs
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.dll
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\refint\FilestreamUnderstand.dll
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.pdb
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\FilestreamUnderstand.genruntimeconfig.cache
+C:\labs\projects\udemy\FilestreamUnderstand\FilestreamUnderstand\obj\Debug\net6.0\ref\FilestreamUnderstand.dll
