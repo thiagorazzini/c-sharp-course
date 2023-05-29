@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\bin\Debug\net6.0\usingStuidies.exe
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\bin\Debug\net6.0\usingStuidies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\bin\Debug\net6.0\usingStuidies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\bin\Debug\net6.0\usingStuidies.dll
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\bin\Debug\net6.0\usingStuidies.pdb
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.dll
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\refint\usingStuidies.dll
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.pdb
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\usingStuidies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\usingStuidies\usingStuidies\obj\Debug\net6.0\ref\usingStuidies.dll
