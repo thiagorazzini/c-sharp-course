@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\bin\Debug\net6.0\streamWhiterStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\bin\Debug\net6.0\streamWhiterStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\bin\Debug\net6.0\streamWhiterStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\bin\Debug\net6.0\streamWhiterStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\bin\Debug\net6.0\streamWhiterStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\refint\streamWhiterStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\streamWhiterStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\streamWhiterStudies\streamWhiterStudies\obj\Debug\net6.0\ref\streamWhiterStudies.dll
