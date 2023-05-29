@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\bin\Debug\net6.0\studiesAboutPath.exe
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\bin\Debug\net6.0\studiesAboutPath.deps.json
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\bin\Debug\net6.0\studiesAboutPath.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\bin\Debug\net6.0\studiesAboutPath.dll
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\bin\Debug\net6.0\studiesAboutPath.pdb
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.dll
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\refint\studiesAboutPath.dll
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.pdb
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\studiesAboutPath.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesAboutPath\studiesAboutPath\obj\Debug\net6.0\ref\studiesAboutPath.dll
