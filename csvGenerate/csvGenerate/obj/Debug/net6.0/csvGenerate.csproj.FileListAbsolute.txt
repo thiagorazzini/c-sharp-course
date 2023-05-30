@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\bin\Debug\net6.0\csvGenerate.exe
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\bin\Debug\net6.0\csvGenerate.deps.json
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\bin\Debug\net6.0\csvGenerate.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\bin\Debug\net6.0\csvGenerate.dll
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\bin\Debug\net6.0\csvGenerate.pdb
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.dll
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\refint\csvGenerate.dll
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.pdb
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\csvGenerate.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\csvGenerate\csvGenerate\obj\Debug\net6.0\ref\csvGenerate.dll

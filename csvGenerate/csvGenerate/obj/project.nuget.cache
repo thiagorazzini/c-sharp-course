@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bASzMC1gQR7sGFNJfpIhWR0kQBGN8ro9qZ1YNGFp97heLe/7O2yUpdym65Gsq0BKMJyf60k8kI6ZV8N8+cCHLw==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\projects\\udemy\\c-sharp-complete\\csvGenerate\\csvGenerate\\csvGenerate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
