@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\bin\Debug\net6.0\ServiceCarRent.exe
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\bin\Debug\net6.0\ServiceCarRent.deps.json
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\bin\Debug\net6.0\ServiceCarRent.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\bin\Debug\net6.0\ServiceCarRent.dll
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\bin\Debug\net6.0\ServiceCarRent.pdb
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.dll
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\refint\ServiceCarRent.dll
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.pdb
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ServiceCarRent.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\ServiceCarRent\ServiceCarRent\obj\Debug\net6.0\ref\ServiceCarRent.dll
