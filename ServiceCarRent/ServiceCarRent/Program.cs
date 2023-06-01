@@ -22,7 +22,7 @@ namespace ServiceCarRent
             double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             CarRentel carRentel = new CarRentel(start, finish, new Vehicle(model));
-            RentelService rentelService = new RentelService(hour, day);
+            RentelService rentelService = new RentelService(hour, day, new BrazilTaskService());
 
             rentelService.ProcessInvoice(carRentel);
 

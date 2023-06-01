@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ServiceCarRent.Services
 {
-    internal class BrazilTaskService
+    internal class BrazilTaskService : ITaxService
     {
+
+
 
         public double Tax(double amount)
         {
