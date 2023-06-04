@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\bin\Debug\net6.0\InterfaceConsolidationExercise.exe
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\bin\Debug\net6.0\InterfaceConsolidationExercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\bin\Debug\net6.0\InterfaceConsolidationExercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\bin\Debug\net6.0\InterfaceConsolidationExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\bin\Debug\net6.0\InterfaceConsolidationExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\refint\InterfaceConsolidationExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\InterfaceConsolidationExercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\InterfaceConsolidationExercise\InterfaceConsolidationExercise\obj\Debug\net6.0\ref\InterfaceConsolidationExercise.dll
