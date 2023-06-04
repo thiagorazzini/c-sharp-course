@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\bin\Debug\net6.0\Inherit-and-interface.exe
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\bin\Debug\net6.0\Inherit-and-interface.deps.json
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\bin\Debug\net6.0\Inherit-and-interface.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\bin\Debug\net6.0\Inherit-and-interface.dll
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\bin\Debug\net6.0\Inherit-and-interface.pdb
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.dll
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\refint\Inherit-and-interface.dll
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.pdb
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\Inherit-and-interface.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\Inherit-and-interface\Inherit-and-interface\obj\Debug\net6.0\ref\Inherit-and-interface.dll
