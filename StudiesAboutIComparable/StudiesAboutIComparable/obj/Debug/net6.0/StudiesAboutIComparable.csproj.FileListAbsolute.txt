@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\bin\Debug\net6.0\StudiesAboutIComparable.exe
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\bin\Debug\net6.0\StudiesAboutIComparable.deps.json
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\bin\Debug\net6.0\StudiesAboutIComparable.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\bin\Debug\net6.0\StudiesAboutIComparable.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\bin\Debug\net6.0\StudiesAboutIComparable.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\refint\StudiesAboutIComparable.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\StudiesAboutIComparable.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutIComparable\StudiesAboutIComparable\obj\Debug\net6.0\ref\StudiesAboutIComparable.dll
