@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\bin\Debug\net6.0\GenericRestritions.exe
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\bin\Debug\net6.0\GenericRestritions.deps.json
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\bin\Debug\net6.0\GenericRestritions.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\bin\Debug\net6.0\GenericRestritions.dll
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\bin\Debug\net6.0\GenericRestritions.pdb
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.dll
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\refint\GenericRestritions.dll
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.pdb
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\GenericRestritions.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\GenericRestritions\GenericRestritions\obj\Debug\net6.0\ref\GenericRestritions.dll
