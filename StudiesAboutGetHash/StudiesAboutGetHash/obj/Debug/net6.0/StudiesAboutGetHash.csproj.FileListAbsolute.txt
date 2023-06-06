@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\bin\Debug\net6.0\StudiesAboutGetHash.exe
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\bin\Debug\net6.0\StudiesAboutGetHash.deps.json
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\bin\Debug\net6.0\StudiesAboutGetHash.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\bin\Debug\net6.0\StudiesAboutGetHash.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\bin\Debug\net6.0\StudiesAboutGetHash.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\refint\StudiesAboutGetHash.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\StudiesAboutGetHash.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesAboutGetHash\StudiesAboutGetHash\obj\Debug\net6.0\ref\StudiesAboutGetHash.dll
