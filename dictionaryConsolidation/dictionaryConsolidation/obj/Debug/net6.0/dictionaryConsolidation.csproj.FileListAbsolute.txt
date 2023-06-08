@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\bin\Debug\net6.0\dictionaryConsolidation.exe
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\bin\Debug\net6.0\dictionaryConsolidation.deps.json
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\bin\Debug\net6.0\dictionaryConsolidation.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\bin\Debug\net6.0\dictionaryConsolidation.dll
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\bin\Debug\net6.0\dictionaryConsolidation.pdb
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.dll
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\refint\dictionaryConsolidation.dll
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.pdb
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\dictionaryConsolidation.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\dictionaryConsolidation\dictionaryConsolidation\obj\Debug\net6.0\ref\dictionaryConsolidation.dll
