@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashExercise", "hashExercise\hashExercise.csproj", "{0314365D-5606-4132-83EA-46272553ECAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0314365D-5606-4132-83EA-46272553ECAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0314365D-5606-4132-83EA-46272553ECAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0314365D-5606-4132-83EA-46272553ECAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0314365D-5606-4132-83EA-46272553ECAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5529B5-4009-4700-AFAB-8C92E282E60B}
+	EndGlobalSection
+EndGlobal

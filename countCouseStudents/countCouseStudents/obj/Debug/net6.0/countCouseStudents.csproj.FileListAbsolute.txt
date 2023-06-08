@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\bin\Debug\net6.0\countCouseStudents.exe
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\bin\Debug\net6.0\countCouseStudents.deps.json
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\bin\Debug\net6.0\countCouseStudents.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\bin\Debug\net6.0\countCouseStudents.dll
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\bin\Debug\net6.0\countCouseStudents.pdb
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.dll
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\refint\countCouseStudents.dll
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.pdb
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\countCouseStudents.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\countCouseStudents\countCouseStudents\obj\Debug\net6.0\ref\countCouseStudents.dll

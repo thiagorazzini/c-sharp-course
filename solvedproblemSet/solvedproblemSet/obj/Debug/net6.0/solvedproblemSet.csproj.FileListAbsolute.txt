@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\bin\Debug\net6.0\solvedproblemSet.exe
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\bin\Debug\net6.0\solvedproblemSet.deps.json
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\bin\Debug\net6.0\solvedproblemSet.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\bin\Debug\net6.0\solvedproblemSet.dll
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\bin\Debug\net6.0\solvedproblemSet.pdb
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.dll
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\refint\solvedproblemSet.dll
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.pdb
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\solvedproblemSet.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\solvedproblemSet\solvedproblemSet\obj\Debug\net6.0\ref\solvedproblemSet.dll

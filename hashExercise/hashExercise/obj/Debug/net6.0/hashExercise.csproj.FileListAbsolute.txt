@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\bin\Debug\net6.0\hashExercise.exe
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\bin\Debug\net6.0\hashExercise.deps.json
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\bin\Debug\net6.0\hashExercise.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\bin\Debug\net6.0\hashExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\bin\Debug\net6.0\hashExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\refint\hashExercise.dll
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.pdb
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\hashExercise.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\hashExercise\hashExercise\obj\Debug\net6.0\ref\hashExercise.dll

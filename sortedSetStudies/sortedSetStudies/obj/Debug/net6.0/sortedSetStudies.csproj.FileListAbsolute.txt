@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\bin\Debug\net6.0\sortedSetStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\bin\Debug\net6.0\sortedSetStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\bin\Debug\net6.0\sortedSetStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\bin\Debug\net6.0\sortedSetStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\bin\Debug\net6.0\sortedSetStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\refint\sortedSetStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\sortedSetStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\sortedSetStudies\sortedSetStudies\obj\Debug\net6.0\ref\sortedSetStudies.dll
