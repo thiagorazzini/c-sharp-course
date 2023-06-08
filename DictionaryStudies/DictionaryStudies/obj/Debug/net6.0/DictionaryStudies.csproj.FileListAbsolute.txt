@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\bin\Debug\net6.0\DictionaryStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\bin\Debug\net6.0\DictionaryStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\bin\Debug\net6.0\DictionaryStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\bin\Debug\net6.0\DictionaryStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\bin\Debug\net6.0\DictionaryStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\refint\DictionaryStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\DictionaryStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\DictionaryStudies\DictionaryStudies\obj\Debug\net6.0\ref\DictionaryStudies.dll
