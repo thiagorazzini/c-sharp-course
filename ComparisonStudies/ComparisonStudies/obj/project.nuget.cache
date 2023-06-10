@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZ6V5aEDiJbRlNPg3S/6RKKVDjTqEGvxggJVuzvKHjODIT0bp6LYc9GqpNE+AWzyddxAI3Cj4j7xKlav0sEKYg==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\projects\\udemy\\c-sharp-complete\\ComparisonStudies\\ComparisonStudies\\ComparisonStudies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

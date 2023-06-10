@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\bin\Debug\net6.0\ComparisonStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\bin\Debug\net6.0\ComparisonStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\bin\Debug\net6.0\ComparisonStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\bin\Debug\net6.0\ComparisonStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\bin\Debug\net6.0\ComparisonStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\refint\ComparisonStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ComparisonStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\ComparisonStudies\ComparisonStudies\obj\Debug\net6.0\ref\ComparisonStudies.dll

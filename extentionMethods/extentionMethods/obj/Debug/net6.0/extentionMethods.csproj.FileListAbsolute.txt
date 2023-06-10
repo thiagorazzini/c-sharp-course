@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\bin\Debug\net6.0\extentionMethods.exe
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\bin\Debug\net6.0\extentionMethods.deps.json
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\bin\Debug\net6.0\extentionMethods.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\bin\Debug\net6.0\extentionMethods.dll
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\bin\Debug\net6.0\extentionMethods.pdb
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.dll
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\refint\extentionMethods.dll
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.pdb
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\extentionMethods.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\extentionMethods\extentionMethods\obj\Debug\net6.0\ref\extentionMethods.dll
