@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\bin\Debug\net6.0\FuncStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\bin\Debug\net6.0\FuncStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\bin\Debug\net6.0\FuncStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\bin\Debug\net6.0\FuncStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\bin\Debug\net6.0\FuncStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\refint\FuncStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\FuncStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\FuncStudies\FuncStudies\obj\Debug\net6.0\ref\FuncStudies.dll
