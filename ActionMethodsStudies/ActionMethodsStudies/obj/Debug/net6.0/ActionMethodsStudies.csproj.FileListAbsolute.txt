@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\bin\Debug\net6.0\ActionMethodsStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\bin\Debug\net6.0\ActionMethodsStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\bin\Debug\net6.0\ActionMethodsStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\bin\Debug\net6.0\ActionMethodsStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\bin\Debug\net6.0\ActionMethodsStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\refint\ActionMethodsStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ActionMethodsStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\ActionMethodsStudies\ActionMethodsStudies\obj\Debug\net6.0\ref\ActionMethodsStudies.dll
