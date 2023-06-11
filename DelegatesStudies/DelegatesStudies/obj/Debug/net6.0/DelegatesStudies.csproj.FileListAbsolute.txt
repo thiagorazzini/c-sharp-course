@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\bin\Debug\net6.0\DelegatesStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\bin\Debug\net6.0\DelegatesStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\bin\Debug\net6.0\DelegatesStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\bin\Debug\net6.0\DelegatesStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\bin\Debug\net6.0\DelegatesStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\refint\DelegatesStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\DelegatesStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\DelegatesStudies\DelegatesStudies\obj\Debug\net6.0\ref\DelegatesStudies.dll
