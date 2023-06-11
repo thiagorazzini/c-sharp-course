@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\bin\Debug\net6.0\PredicatesStudies.exe
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\bin\Debug\net6.0\PredicatesStudies.deps.json
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\bin\Debug\net6.0\PredicatesStudies.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\bin\Debug\net6.0\PredicatesStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\bin\Debug\net6.0\PredicatesStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\refint\PredicatesStudies.dll
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.pdb
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\PredicatesStudies.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\PredicatesStudies\PredicatesStudies\obj\Debug\net6.0\ref\PredicatesStudies.dll
