@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\bin\Debug\net6.0\StudiesLinq.exe
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\bin\Debug\net6.0\StudiesLinq.deps.json
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\bin\Debug\net6.0\StudiesLinq.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\bin\Debug\net6.0\StudiesLinq.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\bin\Debug\net6.0\StudiesLinq.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\refint\StudiesLinq.dll
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.pdb
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\StudiesLinq.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\StudiesLinq\StudiesLinq\obj\Debug\net6.0\ref\StudiesLinq.dll
