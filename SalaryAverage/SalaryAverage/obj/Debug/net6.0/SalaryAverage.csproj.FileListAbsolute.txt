@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\bin\Debug\net6.0\SalaryAverage.exe
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\bin\Debug\net6.0\SalaryAverage.deps.json
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\bin\Debug\net6.0\SalaryAverage.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\bin\Debug\net6.0\SalaryAverage.dll
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\bin\Debug\net6.0\SalaryAverage.pdb
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.dll
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\refint\SalaryAverage.dll
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.pdb
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\SalaryAverage.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\SalaryAverage\SalaryAverage\obj\Debug\net6.0\ref\SalaryAverage.dll

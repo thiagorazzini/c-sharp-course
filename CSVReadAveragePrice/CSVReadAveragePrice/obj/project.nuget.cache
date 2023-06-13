@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zL5SNegFEeasSaemoMVXYiB6/B6FnYNhSmbIlf2loRugtR5R5tDIl1GqQp2wL7ujmKPZwDaN+rfhLywtoMMFhA==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\projects\\udemy\\c-sharp-complete\\CSVReadAveragePrice\\CSVReadAveragePrice\\CSVReadAveragePrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Thiago Moreira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

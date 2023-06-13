@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\bin\Debug\net6.0\CSVReadAveragePrice.exe
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\bin\Debug\net6.0\CSVReadAveragePrice.deps.json
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\bin\Debug\net6.0\CSVReadAveragePrice.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\bin\Debug\net6.0\CSVReadAveragePrice.dll
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\bin\Debug\net6.0\CSVReadAveragePrice.pdb
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.dll
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\refint\CSVReadAveragePrice.dll
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.pdb
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\CSVReadAveragePrice.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\CSVReadAveragePrice\CSVReadAveragePrice\obj\Debug\net6.0\ref\CSVReadAveragePrice.dll
