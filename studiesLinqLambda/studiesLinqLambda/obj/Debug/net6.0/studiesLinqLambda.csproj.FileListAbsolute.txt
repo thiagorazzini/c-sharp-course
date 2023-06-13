@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\bin\Debug\net6.0\studiesLinqLambda.exe
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\bin\Debug\net6.0\studiesLinqLambda.deps.json
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\bin\Debug\net6.0\studiesLinqLambda.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\bin\Debug\net6.0\studiesLinqLambda.dll
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\bin\Debug\net6.0\studiesLinqLambda.pdb
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.dll
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\refint\studiesLinqLambda.dll
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.pdb
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\studiesLinqLambda.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\studiesLinqLambda\studiesLinqLambda\obj\Debug\net6.0\ref\studiesLinqLambda.dll
