@@ -1,0 +1,15 @@
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\bin\Debug\net6.0\LinqWithSQL.exe
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\bin\Debug\net6.0\LinqWithSQL.deps.json
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\bin\Debug\net6.0\LinqWithSQL.runtimeconfig.json
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\bin\Debug\net6.0\LinqWithSQL.dll
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\bin\Debug\net6.0\LinqWithSQL.pdb
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.csproj.AssemblyReference.cache
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.AssemblyInfoInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.AssemblyInfo.cs
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.csproj.CoreCompileInputs.cache
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.dll
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\refint\LinqWithSQL.dll
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.pdb
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\LinqWithSQL.genruntimeconfig.cache
+C:\labs\projects\udemy\c-sharp-complete\LinqWithSQL\LinqWithSQL\obj\Debug\net6.0\ref\LinqWithSQL.dll
