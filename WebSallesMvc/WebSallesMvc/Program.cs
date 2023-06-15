@@ -1,3 +1,6 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using WebSallesMvc.Data;
 namespace WebSallesMvc
 {
     public class Program
@@ -5,6 +8,8 @@ namespace WebSallesMvc
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<WebSallesMvcContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("WebSallesMvcContext") ?? throw new InvalidOperationException("Connection string 'WebSallesMvcContext' not found.")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
